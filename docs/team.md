@@ -6,4 +6,11 @@ title:  Team
 # {{ page.title }}
 
 
-_Add your text here_
+## USER 1
+***UCI Net ID***: ucinetid
+
+## USER 2
+***UCI Net ID***: ucinetid
+
+## USER 3
+***UCI Net ID***: ucinetid
