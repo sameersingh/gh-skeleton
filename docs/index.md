@@ -25,6 +25,7 @@ This is a list:
 - Apple
 - Blueberry
 
+$$x^2 = y^2$$
 
 
 Just getting started with Markdown?
