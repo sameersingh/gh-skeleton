@@ -3,6 +3,12 @@ layout: default
 title:  Home
 ---
 
+Reports:
+
+- [Proposal](proposal.html)
+- [Status](status.html)
+- [Final](final.html)
+
 _Add your text here_
 
 
